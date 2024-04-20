@@ -1,0 +1,33 @@
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\bin\Debug\111111111111111111.exe.config
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\bin\Debug\111111111111111111.exe
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\bin\Debug\111111111111111111.pdb
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\111111111111111111.csproj.AssemblyReference.cache
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Form1.resources
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Properties.Resources.resources
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\111111111111111111.csproj.GenerateResource.cache
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\111111111111111111.csproj.CoreCompileInputs.cache
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\111111111111111111.exe
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\111111111111111111.pdb
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Form2.resources
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Form3.resources
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.message.resources
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\111111111111111111.csproj.CopyComplete
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\bin\Debug\111111111111111111.exe.config
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\bin\Debug\111111111111111111.exe
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\bin\Debug\111111111111111111.pdb
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\111111111111111111.csproj.AssemblyReference.cache
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Form1.resources
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Form2.resources
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Form3.resources
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Form4.resources
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.message.resources
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Properties.Resources.resources
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\111111111111111111.csproj.GenerateResource.cache
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\111111111111111111.csproj.CoreCompileInputs.cache
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\111111111111111111.csproj.CopyComplete
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\111111111111111111.exe
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\111111111111111111.pdb
+C:\Users\yasii\OneDrive\Desktop\My Restaurant System\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Form5.resources
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Form4.resources
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Form5.resources
+C:\Users\yasii\source\repos\111111111111111111\111111111111111111\obj\Debug\_111111111111111111.Menu.resources
